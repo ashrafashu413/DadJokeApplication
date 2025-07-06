@@ -1,6 +1,0 @@
-@DadJokeAPI_HostAddress = http://localhost:5239
-
-GET {{DadJokeAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
